@@ -60,7 +60,7 @@ Suhong Kim – [@github](https://github.com/suhongkim) – suhongkim11@gmail.com
 
 ## Inspiration
 You can get more information on this assignment from 
-[here](./ref/Project 1 -UNet)
+[here](./ref/Project 1 - UNet.pdf)
 Also, you can start from the original framework
 [here](https://drive.google.com/file/d/15eX5Hs_2BiZWb8DuVCX7EqMROtirhsqW/view)
 
