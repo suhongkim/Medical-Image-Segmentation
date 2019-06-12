@@ -44,7 +44,8 @@ The u-net model is customized as below. Based on my experiment, removing the ReL
 |Accuracy for class 1 |	95.29	| 45.18|
 |Accuracy for class 0 |	80.17	| 77.49|
 |Accuracy for total	  | 85.10	| 68.88|
-![](./screenshots/result.png)
+
+![](./screenshots/finalresult.png)
 
 <!-- ## Usage example
 
