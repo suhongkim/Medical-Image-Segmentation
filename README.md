@@ -8,7 +8,7 @@
 This project is the part of the assignemnt in CMPT743 2019 
 
 ## Setup
-'''Matlab2018a'''
+```Matlab2018a```
 
 ## Input Data 
 Rescaled the original data image from (1024, 1024) into (388, 388), and then applied mirroring to make (572, 572) 
@@ -53,14 +53,14 @@ A few motivating and useful examples of how your product can be used. Spice this
 
 _For more examples and usage, please refer to the [Wiki][wiki]._
 -->
-## Meta
+## Author
 
 Suhong Kim – [@github](https://github.com/suhongkim) – suhongkim11@gmail.com
 <!--Distributed under the XYZ license. See ``LICENSE`` for more information.-->
 
 ## Inspiration
 You can get more information on this assignment from 
-[here](./ref/Project 1 - UNet.pdf)
+[here](https://github.com/suhongkim/UNet-Image-Segmentation/ref/Project 1 - UNet.pdf)
 Also, you can start from the original framework
 [here](https://drive.google.com/file/d/15eX5Hs_2BiZWb8DuVCX7EqMROtirhsqW/view)
 
