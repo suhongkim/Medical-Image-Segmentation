@@ -1,5 +1,5 @@
-# Image-Segmentation-UNet
-> Image Segmentation with Deep Neural Network (U-Net) 
+# Medical Image Segmentation - UNet
+> Medical Image Segmentation with Deep Neural Network (U-Net) 
 
 <!--[![NPM Version][npm-image]][npm-url] -->
 <!--[![Build Status][travis-image]][travis-url] -->
