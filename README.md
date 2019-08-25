@@ -5,8 +5,6 @@
 <!--[![Build Status][travis-image]][travis-url] -->
 <!--[![Downloads Stats][npm-downloads]][npm-url] -->
 
-This project is the part of the assignemnt in CMPT743 2019 
-
 ## Setup
 ```Matlab2018a```
 
@@ -47,36 +45,17 @@ The u-net model is customized as below. Based on my experiment, removing the ReL
 
 ![](./screenshots/finalresult.png)
 
-<!-- ## Usage example
 
-A few motivating and useful examples of how your product can be used. Spice this up with code blocks and potentially more screenshots.
-
-_For more examples and usage, please refer to the [Wiki][wiki]._
--->
 ## Author
 
-Suhong Kim – [@github](https://github.com/suhongkim) – suhongkim11@gmail.com
-<!--Distributed under the XYZ license. See ``LICENSE`` for more information.-->
+Suhong Kim – [@github](https://github.com/suhongkim) – suhongkim11@gmail.com \
+Distributed under the MIT license. See the [LICENSE.md](LICENSE.md) file for details
+
 
 ## Inspiration
+This project is a part of the CMPT743 assignments at SFU. Please check the website if you need. 
 You can get more information on this assignment from 
 [here](https://github.com/suhongkim/UNet-Image-Segmentation/blob/master/ref/Project%201%20-%20UNet.pdf)\
 Also, you can start from the original framework
 [here](https://drive.google.com/file/d/15eX5Hs_2BiZWb8DuVCX7EqMROtirhsqW/view)
 
-<!-- 
-## Contributing
-
-1. Fork it (<https://github.com/yourname/yourproject/fork>)
-2. Create your feature branch (`git checkout -b feature/fooBar`)
-3. Commit your changes (`git commit -am 'Add some fooBar'`)
-4. Push to the branch (`git push origin feature/fooBar`)
-5. Create a new Pull Request
--->
-<!-- Markdown link & img dfn's -->
-[npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/datadog-metrics
-[npm-downloads]: https://img.shields.io/npm/dm/datadog-metrics.svg?style=flat-square
-[travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
-[travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
-[wiki]: https://github.com/yourname/yourproject/wiki
