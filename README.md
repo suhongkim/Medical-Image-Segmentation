@@ -6,7 +6,14 @@
 <!--[![Downloads Stats][npm-downloads]][npm-url] -->
 
 ## Setup
-```Matlab2018a```
+```
+python3.5
+CUDA 8.0
+pytorch
+torchvision
+matplotlib
+numpy
+```
 
 ## Input Data 
 Rescaled the original data image from (1024, 1024) into (388, 388), and then applied mirroring to make (572, 572) 
