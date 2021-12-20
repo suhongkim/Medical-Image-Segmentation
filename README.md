@@ -1,6 +1,10 @@
 # Medical Image Segmentation - UNet
 > Medical Image Segmentation with Deep Neural Network (U-Net) 
 
+> I also impelemented Image Segmentation with traditional approach "Active Contour". Please check [here](https://github.com/suhongkim/Active-Contour)
+
+
+
 <!--[![NPM Version][npm-image]][npm-url] -->
 <!--[![Build Status][travis-image]][travis-url] -->
 <!--[![Downloads Stats][npm-downloads]][npm-url] -->
